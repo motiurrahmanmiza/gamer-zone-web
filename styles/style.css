@@ -68,7 +68,7 @@
 .nav-menu > ul{
     display: flex;
     align-items: center;
-    gap: 27px;
+    gap: 28px;
 }
 
 .nav-menu> ul > li> a{
@@ -101,7 +101,7 @@
 
 /* header banner section part */
 
-.banner-comtainer{
+.banner-container{
     max-width: 1440px;
     margin: 0 auto;
     padding: 0px 135px;
@@ -109,7 +109,7 @@
     align-items: center;
 }
 
-.banner-comtainer > div{
+.banner-container > div{
     flex-basis: 50%;
 }
 
@@ -121,7 +121,7 @@
 }
 
 .banner-title-text h1{
-    margin-left: 4px;
+    margin-left: -4px;
     margin-bottom: 15px;
     margin-top: 5px;
     font-size: 70px;
@@ -140,7 +140,7 @@
     margin-bottom: 8px;
 }
 
-.banner-btn {
+.banner-btn{
     display: flex;
     align-items: center;
     gap: 10px;
